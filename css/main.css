@@ -1,0 +1,35 @@
+.jumbotron,
+.jumbotron .btn,
+.jumbotron .btn:hover,
+.jumbotron .btn:focus {
+	color: #FFF;
+	background-color: #404040;
+}
+.jumbotron {
+	padding: 12px 0;
+	margin: 0;
+}
+.pleft {
+	float: left;
+	margin-right: 3px;
+}
+.progress {
+	width: 80%;
+	float: left;
+	margin: 0 5px;
+}
+.progress-bar {
+	background-color: #707070;
+}
+#soundTime {
+	margin: 0 1em;
+	font-weight: bolder;
+}
+.jumbotron .btn, 
+.jumbotron .btn:focus {
+	border: none;
+	padding: 5px;	
+}
+.jumbotron .glyphicon {
+	margin-bottom: 8px;
+}
